@@ -1,0 +1,19 @@
+{
+	"name": "nuxt-ark-menu",
+	"private": true,
+	"type": "module",
+	"scripts": {
+		"build": "nuxt build",
+		"dev": "nuxt dev",
+		"postinstall": "nuxt prepare",
+		"preview": "nuxt preview"
+	},
+	"dependencies": {
+		"@ark-ui/vue": "^0.8.0",
+		"@nuxtjs/tailwindcss": "^6.8.0",
+		"nuxt": "^3.7.3"
+	},
+	"devDependencies": {
+		"@nuxt/devtools": "latest"
+	}
+}

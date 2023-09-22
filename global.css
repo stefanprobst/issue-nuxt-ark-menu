@@ -1,0 +1,9 @@
+:root,
+body,
+#__nuxt {
+	block-size: 100%;
+}
+
+#__nuxt {
+	isolation: isolate;
+}
